@@ -1,2 +1,2 @@
-# Only-bootstraps
+# Only-bootstrap
 website with only bootstrap
